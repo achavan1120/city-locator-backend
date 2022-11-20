@@ -12,5 +12,5 @@ Steps:
 OAuth2ResourceServerConfig:
 ![image](https://user-images.githubusercontent.com/65996920/202890668-5e1d8ca1-bd93-40b0-8500-aeb8de6ba21c.png)
 
-OauthSecurityConfiguration
+OauthSecurityConfiguration:
 ![image](https://user-images.githubusercontent.com/65996920/202890689-cf97dd36-0391-4618-a804-f0ddb1e04520.png)
