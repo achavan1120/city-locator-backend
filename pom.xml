@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.task</groupId>
-	<artifactId>city-finder</artifactId>
+	<artifactId>city-locator-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-city-finder</name>
 

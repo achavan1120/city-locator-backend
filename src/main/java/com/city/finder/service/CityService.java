@@ -38,7 +38,7 @@ public class CityService {
 
   public List<City> getCities(String name) {
     if(name != null && !name.isEmpty()) {
-      return cityRepository.findByNameContaining(name);
+      return cityRepository.findByNameContainingIgnoreCase(name);
     }else {
       return cityRepository.findAll();
     }
