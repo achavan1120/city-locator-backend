@@ -22,7 +22,7 @@ public class CityController {
     }
 
     @PostMapping()
-    public City Save(City city){
+    public City Save(@RequestBody City city){
         return cityService.Save(city);
     }
 
